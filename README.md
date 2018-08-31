@@ -13,7 +13,7 @@
  - 视图集和路由
  - 模式和文档
 
-### 功能展示
+### 效果图
 
  - API Root
 ![mydrf21][22]
@@ -27,6 +27,27 @@
 ![mydrf23][24]
 
 
+### 使用步骤 
+
+- 克隆版本库至本地
+```
+git@github.com:lichaoxiang/My-Django-Allauth.git
+```
+
+- 安装依赖文件
+```
+pip install -r requirements.txt
+```
+
+- 创建 MySQL 数据库
+
+- 修改配置文件(password)
+
+- 生成数据库
+```
+python manage.py makemigrations
+python manage.py migrate
+```
 
 
   [22]: http://p7kk8oo3f.bkt.clouddn.com/QQ20180829-225616@2x.png
