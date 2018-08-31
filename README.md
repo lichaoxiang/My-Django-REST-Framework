@@ -31,7 +31,7 @@
 
 - 克隆版本库至本地
 ```
-git@github.com:lichaoxiang/My-Django-Allauth.git
+git@github.com:lichaoxiang/My-Django-REST-Framework.git
 ```
 
 - 安装依赖文件
